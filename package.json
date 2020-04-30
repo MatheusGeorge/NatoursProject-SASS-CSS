@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusGeorge/NatoursProject-SASS-CSS.git"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusGeorge/NatoursProject-SASS-CSS/issues"
+  },
+  "homepage": "https://github.com/MatheusGeorge/NatoursProject-SASS-CSS#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.14.0"
+  }
+}
